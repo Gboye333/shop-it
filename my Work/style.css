@@ -1,0 +1,374 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+.top {
+  color: #A52A2A;
+  text-align: center;
+  font-family: cursive;
+
+}
+
+.top hr {
+  border: 2.5px solid red;
+  width: 9%;
+  margin: 0 auto;
+}
+
+.button {
+  border-color: brown;
+  background-color: white;
+  border-width: medium;
+  border-style: solid;
+  color: black;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: cursive;
+  margin-top: 50px;
+  margin-left: 32%;
+}
+
+
+.button:hover {
+  background-color: brown;
+  color: white;
+}
+
+.button1 {
+  border-color: brown;
+  background-color: white;
+  border-width: medium;
+  color: black;
+  padding: 10px 22px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: cursive;
+  margin-left: 2%;
+}
+
+.button1:hover {
+  background-color: brown;
+  color: white;
+}
+
+.button2 {
+  border-color: brown;
+  background-color: white;
+  border-width: medium;
+  color: black;
+  padding: 10px 22px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: cursive;
+  margin-left: 2%;
+}
+
+.button2:hover {
+  background-color: brown;
+  color: white;
+}
+
+.button3 {
+  border-color: brown;
+  background-color: white;
+  border-width: medium;
+  color: black;
+  padding: 10px 22px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: cursive;
+  margin-left: 2%;
+}
+
+.button3:hover {
+  background-color: brown;
+  color: white;
+}
+
+.men {
+  color: #A52A2A;
+  text-align: center;
+  font-family: cursive;
+  position: relative;
+  top: 50px;
+
+}
+
+.menclothing hr {
+  border: 2.5px solid red;
+  width: 9%;
+  margin: 4px auto;
+}
+
+.picture1 img {
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  margin-top: 70px;
+  left: 20px;
+  border-radius: 5%;
+}
+
+.picture1 h2 {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 450px;
+}
+
+.picture1 hr {
+  width: 30%;
+  position: absolute;
+  margin-top: 95px;
+  margin-left: 440px;
+  border: 1.5px solid black;
+}
+
+.price {
+  margin-top: 74px;
+  margin-left: 50px;
+  color: brown;
+}
+
+.text h4 {
+  margin-right: 150px;
+  margin-top: 20px;
+  color: black;
+  font-weight: lighter;
+
+}
+
+.picture2 img {
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  margin-top: 115px;
+  left: 20px;
+  border-radius: 5%;
+}
+
+.picture2 h2 {
+  position: absolute;
+  margin-top: 105px;
+  margin-left: 450px;
+}
+
+.picture2 hr {
+  width: 30%;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 440px;
+  border: 1.5px solid black;
+}
+
+.price2 {
+  margin-top: 114px;
+  margin-left: 220px;
+  color: brown;
+}
+
+.text2 h4 {
+  margin-right: 120px;
+  margin-top: 20px;
+  color: black;
+  font-weight: lighter;
+
+}
+
+.women {
+  color: #A52A2A;
+  text-align: center;
+  font-family: cursive;
+  position: relative;
+  top: 200px;
+}
+
+.womenclothing hr {
+  border: 2.5px solid red;
+  width: 9%;
+  margin: 0 auto;
+}
+
+.wpicture1 img {
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  margin-top: 80px;
+  left: 20px;
+  border-radius: 5%;
+}
+
+.wpicture1 h2 {
+  position: absolute;
+  top: 105px;
+  left: 450px;
+}
+
+.wpicture1 hr {
+  width: 30%;
+  position: absolute;
+  margin-top: 105px;
+  margin-left: 440px;
+  border: 1.5px solid black;
+}
+
+.price3 {
+  margin-top: 75px;
+  margin-left: -20px;
+  color: brown;
+}
+
+.text3 h4 {
+  color: black;
+  font-weight: lighter;
+  position: absolute;
+  top: 160px;
+  left: 390px;
+}
+
+.wpicture2 img {
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  margin-top: 300px;
+  left: 20px;
+  border-radius: 5%;
+}
+
+.wpicture2 h2 {
+  position: absolute;
+  top: 420px;
+  left: 450px;
+}
+
+.wpicture2 hr {
+  width: 30%;
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 440px;
+  border: 1.5px solid black;
+}
+
+.price4 {
+  margin-top: 295px;
+  margin-left: 160px;
+  color: brown;
+}
+
+.text4 h4 {
+  color: black;
+  font-weight: lighter;
+  position: absolute;
+  top: 470px;
+  left: 390px;
+}
+
+.childrenclothing h2 {
+  color: #A52A2A;
+  text-align: center;
+  font-family: cursive;
+  position: relative;
+  top:550px
+}
+
+.childrenclothing hr{
+  border: 2.5px solid red;
+  width: 9%;
+  margin: 550px auto;
+}
+
+.cchildren1 img{
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  top: 1900px;
+  left: 20px;
+  border-radius: 5%;
+} 
+
+.cchildren1 h2{
+  color: #A52A2A;
+  font-family: cursive;
+  position: absolute;
+  left: 450px;
+  top: 1890px;
+  
+}
+
+.cchildren1 hr{
+  width: 30%;
+  position: absolute;
+  margin-top: -430px;
+  margin-left: 440px;
+  border: 1.5px solid black;
+}
+
+.price5 {
+  position: absolute;
+  top: 1897px;
+  left: 750px;
+  color: brown;
+  font-family: cursive;
+}
+
+.text5 h4{
+  color: black;
+  font-weight: lighter;
+  position: absolute;
+  top: 1930px;
+  left: 390px;
+  font-family: cursive;
+}
+
+.cchildren2 img{
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  top: 2230px;
+  left: 20px;
+  border-radius: 5%;
+} 
+
+.cchildren2 h2{
+  color: #A52A2A;
+  font-family: cursive;
+  position: absolute;
+  left: 450px;
+  top: 2220px;
+}
+
+.cchildren2 hr{
+  width: 30%;
+  position: absolute;
+  top: 2252px;
+  left: 445px;
+  border: 1.5px solid black;
+}
+
+.price6{
+  position: absolute;
+  top: 2227px;
+  left: 650px;
+  color: brown;
+  font-family: cursive;
+}
+
+.text6 h4{
+  color: black;
+  font-weight: lighter;
+  position: absolute;
+  top: 2260px;
+  left: 390px;
+  font-family: cursive;
+}
